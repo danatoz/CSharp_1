@@ -1,0 +1,6 @@
+C:\Users\Dante\Desktop\CSharp\lesson_1\lesson_1\bin\Debug\lesson_1.exe.config
+C:\Users\Dante\Desktop\CSharp\lesson_1\lesson_1\bin\Debug\lesson_1.exe
+C:\Users\Dante\Desktop\CSharp\lesson_1\lesson_1\bin\Debug\lesson_1.pdb
+C:\Users\Dante\Desktop\CSharp\lesson_1\lesson_1\obj\Debug\lesson_1.csprojAssemblyReference.cache
+C:\Users\Dante\Desktop\CSharp\lesson_1\lesson_1\obj\Debug\lesson_1.exe
+C:\Users\Dante\Desktop\CSharp\lesson_1\lesson_1\obj\Debug\lesson_1.pdb
