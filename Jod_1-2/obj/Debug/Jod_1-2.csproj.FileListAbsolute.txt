@@ -1,0 +1,5 @@
+C:\Users\Dante\Desktop\CSharp\lesson_1\Jod_1-2\bin\Debug\Jod_1-2.exe.config
+C:\Users\Dante\Desktop\CSharp\lesson_1\Jod_1-2\bin\Debug\Jod_1-2.exe
+C:\Users\Dante\Desktop\CSharp\lesson_1\Jod_1-2\bin\Debug\Jod_1-2.pdb
+C:\Users\Dante\Desktop\CSharp\lesson_1\Jod_1-2\obj\Debug\Jod_1-2.exe
+C:\Users\Dante\Desktop\CSharp\lesson_1\Jod_1-2\obj\Debug\Jod_1-2.pdb

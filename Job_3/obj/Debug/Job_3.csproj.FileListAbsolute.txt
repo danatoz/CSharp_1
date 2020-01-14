@@ -1,0 +1,5 @@
+C:\Users\Dante\Desktop\CSharp\lesson_1\Job_3\bin\Debug\Job_3.exe.config
+C:\Users\Dante\Desktop\CSharp\lesson_1\Job_3\bin\Debug\Job_3.exe
+C:\Users\Dante\Desktop\CSharp\lesson_1\Job_3\bin\Debug\Job_3.pdb
+C:\Users\Dante\Desktop\CSharp\lesson_1\Job_3\obj\Debug\Job_3.exe
+C:\Users\Dante\Desktop\CSharp\lesson_1\Job_3\obj\Debug\Job_3.pdb
